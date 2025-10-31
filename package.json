@@ -1,0 +1,25 @@
+{
+  "name": "bc-ferries-tracker",
+  "version": "1.0.0",
+  "description": "A simple web application built with HTML, Node.js, and Express that integrates the BC Ferries API by Samuel Pratt . This project retrieves and displays real-time BC Ferries sailing and schedule data through API calls.  Developed as part of a school project for academic and learning purposes only — not intended for commercial use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheecharoo/bc-ferries-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/cheecharoo/bc-ferries-tracker/issues"
+  },
+  "homepage": "https://github.com/cheecharoo/bc-ferries-tracker#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}
